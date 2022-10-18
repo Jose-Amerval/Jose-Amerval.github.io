@@ -1,0 +1,46 @@
+#Azul {
+    font-family: monospace ;
+}
+
+.description {
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(200, 220, 150);
+    
+}
+
+#estilo {
+    color: green;
+
+}
+
+.basquete {
+
+  font-size: 50px;
+
+}
+
+.militar {
+
+    font-size: 45px;
+
+}
+
+.ouvinte {
+
+    font-size: 40px;
+
+}
+
+.celulares {
+
+    font-size: 35px;
+
+}
+
+.wizard {
+
+    font-size: 30px;
+}
