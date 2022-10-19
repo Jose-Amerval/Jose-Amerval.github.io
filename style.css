@@ -2,6 +2,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif';
 }
 
+
 .descricao {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
@@ -30,3 +31,14 @@ body {
     font-size: 50px;
 }
 
+#minha-foto {
+ float: left ;
+}
+
+#image-container {
+    height: 300px;
+}
+
+div {
+    border: 2px solid black;
+}
